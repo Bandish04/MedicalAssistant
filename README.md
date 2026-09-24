@@ -189,7 +189,7 @@ $ streamlit run app.py
 
 ## 🌟 Credits
 
-- Built by Supratim Nag
+- Built by Bandish Vaidya
 - Inspired by LangChain, Groq, Pinecone, and FastAPI ecosystems
 
 ---
