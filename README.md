@@ -134,6 +134,9 @@ POST /ask/ --- Ask a question --- Form field: `question`
 <img width="1917" height="1025" alt="1" src="https://github.com/user-attachments/assets/2f4fe766-4855-436c-89fe-40fef47809aa" />
 <img width="1917" height="1021" alt="2" src="https://github.com/user-attachments/assets/05d0aef8-ec36-47b6-882a-3b0a46444d57" />
 
+<img width="1570" height="765" alt="3" src="https://github.com/user-attachments/assets/ca0ba5b8-e85f-407f-be5d-de479f996cab" />
+<img width="1592" height="832" alt="2" src="https://github.com/user-attachments/assets/e218f295-c3d1-4e36-b171-26321b0227e7" />
+<img width="1507" height="790" alt="1" src="https://github.com/user-attachments/assets/f644f10b-239b-43a8-b939-235fcd03f9a4" />
 
 
 ---
